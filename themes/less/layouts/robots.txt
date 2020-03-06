@@ -1,0 +1,3 @@
+# Greet from Halimboi
+User-agent:*
+Sitemap: https://halimboi.com/sitemap.xml

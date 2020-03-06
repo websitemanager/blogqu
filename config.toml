@@ -1,0 +1,105 @@
+#image horizontal = 1920x1281px
+#image vertical = 1920x1440px
+
+baseURL = "https://halimboi.com/"
+languageCode = "id-ID"
+DefaultContentLanguage = "id"
+theme = "less"
+googleAnalytics = "UA-155099144-3"
+RemovePathAccents = true
+timeout = 200000
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 6
+disqusShortname = "halimboi"
+
+[author]
+  name = "Doni Halim"
+
+[blackfriday]
+  hrefTargetBlank = true
+#  noreferrerLinks = true
+#  nofollowLinks = true
+
+[permalinks]
+  posts = "/:slug"
+  categories = "/:slug"
+
+#[imaging]
+#  resampleFilter = "lanczos"
+
+[params]
+  googleAdsense = "ca-pub-3520097993586116"
+  copyright = "Halimboi"
+
+  sizes = [ "2048" , "1024" , "512" ]
+  tags = []
+
+  # fonts
+  sansSerifFont = "Josefin Sans"
+  titleFont = "Crimson Text"
+  bodyFont = "Lora"
+
+  hasLogo = true
+  accentColor = "#00bcd4"
+
+ heroHeader = true
+
+[taxonomies]
+  category = "categories"
+
+[params.titles]
+  posts = "Linux"
+  categories = "Kategori"
+
+[params.social]
+  email = "donihalim@protonmail.com"
+  domain = "Doni Halim"
+  instagram = "dsnvhlmb"
+  twitter = "halimboi"
+  facebook = "drtunicorn"
+  linkedin = "doni-halim-16a6ba1a0"
+  github = "donihalim"
+  paypal = "halimboi"
+  telegram = "dsnvhlm"
+
+[[menu.main]]
+name = "Raspberry Pi"
+title = "Tutorial dan tips Seputar perangkat Raspberry Pi"
+  weight = 1
+  identifier = "raspberrypi"
+  url = "/raspberrypi"
+[[menu.main]]
+name = "GNU/Linux"
+title = "Tutorial dan tips Seputar sistem operasi GNU/Linux"
+  weight = 2
+  identifier = "linux"
+  url = "/linux"
+[[menu.main]]
+  name = "Lisensi"
+  title = "Lisensi Halimboi"
+  weight = 3
+  identifier = "cc-by-nc"
+  url = "/cc-by-nc"
+
+# For footer
+[params.license]
+  type = "CC BY-NC 4.0"
+  url = "/cc-by-nc"
+
+[params.about]
+  type = "About"
+  url = "/about"
+
+[params.contact]
+  type = "Contact"
+  url = "/contact"
+
+[params.policy]
+  type = "Policy"
+  url = "/policy"
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
