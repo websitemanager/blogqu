@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-01-25T02:25:10Z
+publishdate: 2020-01-25
+lastmod: 2020-03-07
 title: "Bluetooth Tetap Aktif Saat Mode Pesawat Di Android 11"
 subtitle: "Fitur baru mode pesawat yang akan datang di android 11"
-seotitle: "Bluetooth Tetap Aktif Saat Mode Pesawat Di Android 11"
 description : "Fitur baru android 11 yang mana saat mengakitfkan mode pesawat, bluetooth tidak ikut mati."
 slug: ""
 categories:

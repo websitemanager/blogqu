@@ -1,14 +1,14 @@
 ---
 draft: false
 date: 2020-02-08T14:00:37+07:00
+publishdate: 2020-02-08
+lastmod: 2020-03-07
 title: "Kostumisasi Color Scheme GNOME Terminal"
 subtitle: "Kumpulan Color Scheme GNOME Terminal"
-seotitle: "Kostumisasi Color Scheme GNOME Terminal"
 description : "Mengkostumisasi Skema Warna GNOME Terminal"
 slug: "kostumisasi-color-scheme-gnome-terminal"
 categories:
-- linux
-- aplikasi
+- desktop
 resources:
 - src: "cover.jpeg"
   name: "cover"

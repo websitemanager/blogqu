@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-02-23T11:24:06Z
+publishdate: 2020-02-23
+lastmod: 2020-03-07
 title: "GNU/Linux Tips: Menambahkan Syntax Highlighting Pada Perintah Less"
 subtitle: "Buat perintah less lebih berwarna dengan syntax highlighting"
-seotitle: "GNU/Linux Tips: Menambahkan Syntax Highlighting Pada Perintah Less"
 description : "Tulisan ini menjelaskan cara menambahkan syntax highlighting pada perintah less menggunakan sebuah
 perangkat lunak bebas bernama source-highlight, sebuah perangkat lunak bebas yang dikembangkan oleh proyek GNU."
 slug: "syntax-highlighting-perintah-less"
@@ -15,8 +16,7 @@ tags:
 - GNU
 - commands
 categories:
-- linux
-- raspberrypi
+- terminal
 resources:
 - src: "cover.jpeg"
   name: "cover"

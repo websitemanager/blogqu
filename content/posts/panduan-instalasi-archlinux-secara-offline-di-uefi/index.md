@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-01-24T05:22:03Z
-title: "Panduan Instalasi Archlinux Secara Offline Di Uefi"
+publishdate: 2020-01-24
+lastmod: 2020-03-07
+title: "Panduan Instalasi Archlinux Secara Offline Di UEFI"
 subtitle: "Instalasi Arch Linux Secara Offline Di UEFI"
-seotitle: "Panduan Instalasi Arch Linux Secara Offile Di UEFI"
 description : "Panduan instalasi arch linux secara offline pada sistem UEFI."
 slug: ""
 categories:

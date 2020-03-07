@@ -1,14 +1,14 @@
 ---
 draft: false
 date: 2020-02-09T22:12:05Z
+publishdate: 2020-02-09
+lastmod: 2020-03-07
 title: "Mencegah Koneksi SSH Terputus (Time Out) Di GNU/Linux"
 subtitle: "Mengatasi koneksi SSH sering terputus dengan pesan KeepAlive."
-seotitle: "Mencegah Koneksi SSH Terputus (Time Out) Di GNU/Linux"
 description : "Mengatasi Koneksi SSH Sering Terputus Dengan Opsi KeepAlive"
 slug: "mencegah-koneksi-ssh-terputus"
 categories:
 - linux
-- raspberrypi
 resources:
 - src: "cover.jpeg"
   name: "cover"

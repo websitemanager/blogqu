@@ -1,14 +1,15 @@
 ---
 draft: false
 date: 2020-02-27T22:38:12Z
+publishdate: 2020-02-27
+lastmod: 2020-03-07
 title: "Cara Menggabungkan Banyak Gambar Menjadi Satu PDF Di GNU/Linux"
 subtitle: "Mudah menggabungkan banyak gambar dengan ImageMagick"
-seotitle: "Cara Menggabungkan Banyak Gambar Menjadi Satu PDF Di GNU/Linux"
 description : "Cara paling mudah menggabungkan banyak gambar menjadi satu berkas PDF di GNU/Linux
 menggunakan ImageMagick."
 slug: "cara-menggabungkan-gambar-menjadi-satu-pdf-gnulinux"
 categories:
-- linux
+- perkakas
 resources:
 - src: "cover.jpeg"
   name: "cover"

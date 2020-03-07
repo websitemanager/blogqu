@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-02-20T19:30:25+07:00
+publishdate: 2020-02-20
+lastmod: 2020-03-07
 title: "Cara Mengembalikan Menu Bar Sublime Teks Editor"
 subtitle: "Menu bar hilang ? Tidak perlu panik..."
-seotitle: "Cara Mengembalikan Menu Bar Sublime Teks Editor"
 description : "Mengembalikan menu bar yang hilang atau tersembunyi pada sublime cukuplah mudah, sebuah shortcut keyboard dan satu baris perintah dapat menyelesaikan permasalahan tersebut."
 slug: ""
 categories:

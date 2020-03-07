@@ -1,15 +1,15 @@
 ---
 draft: false
 date: 2020-02-21T00:44:16Z
+publishdate: 2020-02-21
+lastmod: 2020-03-07
 title: "Shortcut Keyboard Terminal GNU/Linux"
 subtitle: "Bekerja dengan terminal lebih cepat dan efisien."
-seotitle: "Shortcut Keyboard Terminal GNU/Linux"
 description : "Tingkatkan produktifitas dan efisiensi Anda saat menggunakan terminal di GNU/Linux dengan
 kumpulan shortcut keyboard ini."
 slug: "shortcut-keyboard-terminal-linux"
 categories:
-- linux
-- raspberrypi
+- terminal
 resources:
 - src: "cover.jpeg"
   name: "cover"

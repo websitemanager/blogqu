@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-01-31T04:44:39Z
+publishdate: 2020-01-31
+lastmod: 2020-03-07
 title: "Hal Yang Perlu Dilakukan Setelah Menginstal Fedora"
 subtitle: "Selesai menginstal Fedora? Selanjutnya apa?"
-seotitle: "Hal Yang Perlu Dilakukan Setelah Menginstal Fedora"
 description : "Selesai Menginstal Fedora? Selanjutnya Apa?"
 slug: ""
 categories:

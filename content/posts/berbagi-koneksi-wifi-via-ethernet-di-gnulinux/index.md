@@ -1,9 +1,10 @@
 ---
 draft: false
 date: 2020-02-16T08:54:06+07:00
+publishdate: 2020-02-16
+lastmod: 2020-03-07
 title: "Berbagi Koneksi Wi-Fi Melalui Ethernet Di GNU/Linux"
 subtitle: "Mudah berbagi koneksi internet di GNU/Linux."
-seotitle: "Berbagi Koneksi Wi-Fi Melalui Ethernet Di GNU/Linux"
 description : "Konfigurasi NetworkManager untuk berbagi koneksi internet di GNU/Linux."
 slug: "berbagi-koneksi-wi-fi-melalui-ethernet-di-gnulinux"
 categories:

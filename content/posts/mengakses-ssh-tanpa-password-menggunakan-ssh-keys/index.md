@@ -1,14 +1,14 @@
 ---
 draft: false
 date: 2020-02-09T10:31:21Z
+publishdate: 2020-02-09
+lastmod: 2020-03-07
 title: "Mengakses SSH Tanpa Password Menggunakan SSH Keys"
 subtitle: "Login SSH lebih aman menggunakan public-key SSH di GNU/Linux."
-seotitle: "Mengakses SSH Tanpa Password Menggunakan SSH Keys"
 description : "Login SSH Lebih Aman Menggunakan SSH Keys."
 slug: ""
 categories:
 - linux
-- raspberrypi
 resources:
 - src: "cover.jpeg"
   name: "cover"

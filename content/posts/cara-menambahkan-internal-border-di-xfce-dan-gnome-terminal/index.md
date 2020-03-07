@@ -1,15 +1,15 @@
 ---
 draft: false
 date: 2020-02-17T22:46:28Z
+publishdate: 2020-02-17
+lastmod: 2020-03-07
 title: "Cara Menambahkan Internal Border Di Xfce Dan Gnome Terminal"
 subtitle: "Buat terminal lebih nyaman dipandang dengan menambahkan internal border atau padding"
-seotitle: "Cara Menambahkan Internal Border Di Xfce dan Gnome Terminal"
 description : "Internal border atau padding merupakan jarak antara teks dengan batas terminal yang
 mana ditambahkan untuk kepentingan estetika."
 slug: ""
 categories:
-- linux
-- aplikasi
+- desktop
 resources:
 - src: "cover.jpeg"
   name: "cover"
