@@ -95,6 +95,10 @@ disqusShortname = "halimboi"
   type = "CC BY-NC 4.0"
   url = "/cc-by-nc"
 
+[params.policy]
+  type = "Policy"
+  url = "/policy"
+
 [[related.indices]]
   name = "categories"
   weight =  1
