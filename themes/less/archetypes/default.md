@@ -1,17 +1,18 @@
 ---
 draft: true
 date: {{ .Date }}
+publishdate: {{ now.Format "2006-01-02" }}
+lastmod: {{ now.Format "2006-01-02" }}
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
-seotitle: ""
 description : ""
 slug: ""
 tags:
 - linux
 categories:
-- android
-- linux
-- raspberrypi
+- perkakas
+- terminal
+- desktop
 resources:
 - src: "cover.jpeg"
   name: "cover"

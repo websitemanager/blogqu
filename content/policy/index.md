@@ -1,8 +1,9 @@
 ---
 draft: false
 date: 2020-02-11T11:24:53Z
+publishdate: 2019-02-11
+lastmod: 2020-03-07
 title: "Privacy Policy"
-seotitle: "Kebijakan Privasi - Halimboi"
 description : "Kebijakan privasi blog Halimboi."
 type: "policy"
 resources:

@@ -1,5 +1,4 @@
 ---
-title: "Lisensi"
-seotitle: "Lisensi - Halimboi" 
+title: "Lisensi" 
 description: "Memahami lisensi dengan Free Software."
 ---

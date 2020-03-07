@@ -4,13 +4,14 @@
 baseURL = "https://halimboi.com/"
 languageCode = "id-ID"
 DefaultContentLanguage = "id"
+title = "halimboi.com"
 theme = "less"
-googleAnalytics = "UA-155099144-3"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 6
+paginate = 5
+googleAnalytics = "UA-155099144-3"
 disqusShortname = "halimboi"
 
 [author]
@@ -42,8 +43,7 @@ disqusShortname = "halimboi"
 
   hasLogo = true
   accentColor = "#00bcd4"
-
- heroHeader = true
+  heroHeader = true
 
 [taxonomies]
   category = "categories"
@@ -52,6 +52,7 @@ disqusShortname = "halimboi"
   posts = "Linux"
   categories = "Kategori"
 
+# social media
 [params.social]
   email = "donihalim@protonmail.com"
   domain = "Doni Halim"
@@ -63,43 +64,38 @@ disqusShortname = "halimboi"
   paypal = "halimboi"
   telegram = "dsnvhlm"
 
+# menu content
 [[menu.main]]
-name = "Raspberry Pi"
-title = "Tutorial dan tips Seputar perangkat Raspberry Pi"
+  name = "Perkakas"
+  title = "Perkakas GNU/Linux"
   weight = 1
-  identifier = "raspberrypi"
-  url = "/raspberrypi"
+  identifier = "perkakas"
+  url = "/perkakas"
 [[menu.main]]
-name = "GNU/Linux"
-title = "Tutorial dan tips Seputar sistem operasi GNU/Linux"
+  name = "Terminal"
+  title = "Perintah-perintah dasar dan lanjutan GNU/Linux"
   weight = 2
-  identifier = "linux"
-  url = "/linux"
+  identifier = "terminal"
+  url = "/terminal"
 [[menu.main]]
-  name = "Lisensi"
-  title = "Lisensi Halimboi"
+  name = "Desktop"
+  title = "Kostumisasi lingkungan desktop GNU/Linux"
   weight = 3
-  identifier = "cc-by-nc"
-  url = "/cc-by-nc"
+  identifier = "desktop"
+  url = "/desktop"
+[[menu.main]]
+  name = "Profil"
+  title = "Tentang Doni Halim"
+  weight = 4
+  identifier = "profil"
+  url = "/profil"
 
-# For footer
+# footer content
 [params.license]
   type = "CC BY-NC 4.0"
   url = "/cc-by-nc"
 
-[params.about]
-  type = "About"
-  url = "/about"
-
-[params.contact]
-  type = "Contact"
-  url = "/contact"
-
-[params.policy]
-  type = "Policy"
-  url = "/policy"
-
 [[related.indices]]
   name = "categories"
-  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  weight =  1
   includeNewer = true

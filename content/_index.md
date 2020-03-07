@@ -1,21 +1,26 @@
 ---
-title: "Halimboi"
-seotitle: "Halimboi - Tentang GNU/Linux dan Raspberry Pi"
-description: "Blog yang membahas tentang GNU/Linux dan perangkat Raspberry Pi."
+title: "Doni Halim, GNU/Linux enthusiast"
+description: "Doni Halim is a student, worker, and GNU/Linux enthusiast. Here's where he wrote some notes to keep his mind busy."
 date: 2019-07-26T22:57:50+02:00
+publishdate: 2019-07-26
+lastmod: 2020-03-06
 draft: false
 tags:
+  - pemula
   - linux
+  - ubuntu
+  - raspbian
+  - manjaro
+  - fedora
+  - server
+  - terminal
+  - desktop
+  - git
+  - lisensi
+  - foss
+  - cc
   - raspi
   - raspberrypi
-  - floss
-  - foss
-  - desktop
-  - terminal
-  - server
-  - pemula
-  - lisensi
-  - cc
 resources:
 - src: "*.jpg"
 ---

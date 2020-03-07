@@ -1,5 +1,4 @@
 ---
 title: "Desktop"
-seotitle: "Desktop - Halimboi"
-description: "Kumpulan tips pengaturan desktop."
+description: "Tentang kostumisasi Desktop GNU/Linux."
 ---

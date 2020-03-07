@@ -1,8 +1,9 @@
 ---
 draft: false
 date: 2019-06-02T23:11:56+07:00
+publishdate: 2019-06-02
+lastmod: 2020-03-07
 title: "Lisensi"
-seotitle: "Lisensi - Halimboi"
 description : "Jenis lisensi yang digunakan."
 type: "lisensi"
 resources:
