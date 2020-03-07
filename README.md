@@ -10,16 +10,3 @@
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/halimboi?label=Follow%20Halimboi&style=social">
   </a>
 </p>
-
-## Sekilas
-
-**Halimboi** merupakan personal blog yang dibangun menggunakan [Hugo](https://gohugo.io/) dengan templat
-[Hervyqa](https://hervyqa.com).
-
-
-## Lisensi 
-Karya ini dilisensikan dibawah [GPL-3.0 License](LICENSE).
-
----
-
-Copyright © 2020 [Doni Halim(DØNIX)](https://halimbois.netlify.com).
