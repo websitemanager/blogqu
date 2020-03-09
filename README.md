@@ -1,4 +1,4 @@
-<h1 align="center">Halimboi - Personal blog</h1>
+<h3 align="center">Halimboi - Personal blog</h3>
 <p align="center">
   <a href="#-license" title="License">
     <img alt="License" src="https://img.shields.io/github/license/donihalim/blogqu">
