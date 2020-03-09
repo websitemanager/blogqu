@@ -2,7 +2,7 @@
 draft: false
 date: 2020-02-11T11:24:53Z
 publishdate: 2019-02-11
-lastmod: 2020-03-08
+lastmod: 2020-03-09
 title: "Kebijakan Privasi"
 description : "Kebijakan privasi blog Halimboi."
 type: "policy"
@@ -12,8 +12,8 @@ resources:
 - src: "*.jpeg"
 ---
 
-Privasi pengunjung sangatlah penting bagi kami, oleh karena itu kebijakan privasi ini menjelasankan bagaimana [Halimboi](https://halimboi.com) atau pihak ketiga mengumpulkan, menjaga,
-dan menggunakan informasi personal Anda sebagai pengunjung.
+Kebijakan privasi ini menjelasankan bagaimana [Halimboi](https://halimboi.com) atau pihak ketiga mengumpulkan, menjaga,
+dan menggunakan informasi pengunjung Halimboi.
 
 ***
 
