@@ -24,7 +24,6 @@
   {{ range .AlternativeOutputFormats -}}
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">
   {{ end -}}
-  {{ partial "adsense.html" . }}
   {{ partial "opengraph.html" . }}
   {{ template "_internal/google_news.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
