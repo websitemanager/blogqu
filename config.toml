@@ -1,6 +1,3 @@
-#image horizontal = 1920x1281px
-#image vertical = 1920x1440px
-
 baseURL = "https://halimboi.com/"
 languageCode = "id-ID"
 DefaultContentLanguage = "id"

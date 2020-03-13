@@ -14,7 +14,7 @@
     {{ $style := $style | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ end }}
-<meta name="msapplication-TileImage" content="{{ $icon144 | relURL }}">
+  <meta name="msapplication-TileImage" content="{{ $icon144 | relURL }}">
   <link rel="icon" href="{{ $favicon | relURL }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ $icon16 | relURL }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ $icon32 | relURL }}">
